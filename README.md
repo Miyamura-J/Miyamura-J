@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on a Hitomezashi patterns script
+- 🔭 I’m currently working on a Command-Line To-Do App With Python and Typer
 - 🌱 I’m currently learning Python and C
 - 👯 I’m looking to collaborate on any project that would help improve my abilities
 - 📫 How to reach me: Miyamura.MAJ@gmail.com
